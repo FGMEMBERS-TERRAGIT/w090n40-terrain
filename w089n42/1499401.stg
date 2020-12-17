@@ -1,0 +1,36 @@
+OBJECT_BASE 1499401.btg
+OBJECT 55LL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.517396 42.154602 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.505556 42.153779 -9999.0 0.00
+OBJECT 5LL7.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.519052 42.210867 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.511127 42.210291 -9999.0 0.00
+OBJECT 62IL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.604702 42.182281 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.603814 42.189988 -9999.0 0.00
+OBJECT 63IL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.599392 42.183562 254.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.589679 42.183151 257.8 0.00
+OBJECT 64IL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.672116 42.242202 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.661408 42.241176 -9999.0 0.00
+OBJECT 65IL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.621759 42.204422 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.622870 42.197291 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -88.621018 42.200856 -9999.0 0.00
+OBJECT 68IS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.567623 42.148765 255.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.556271 42.148435 257.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -88.561948 42.148984 -9999.0 0.00
+OBJECT 6IL0.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.700369 42.127519 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.699260 42.135309 -9999.0 0.00
+OBJECT 7IL6.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.501008 42.129028 295.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.504721 42.132131 293.7 0.00
+OBJECT 7IL7.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.533809 42.123893 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.533032 42.129489 -9999.0 0.00
+OBJECT IS57.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.655719 42.180034 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.645577 42.179458 -9999.0 0.00
